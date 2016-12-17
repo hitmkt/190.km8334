@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://km8334.kobia.co.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
